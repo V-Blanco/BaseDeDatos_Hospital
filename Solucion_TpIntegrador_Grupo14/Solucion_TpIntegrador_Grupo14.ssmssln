@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{31FB2F76-D12E-48EF-985D-6FC7216A9EA2}"
+	ProjectSection(SolutionItems) = preProject
+		00_TP_creacionBBDD.sql = 00_TP_creacionBBDD.sql
+		01_TP_creacionStoredProcedures_Inserts.sql = 01_TP_creacionStoredProcedures_Inserts.sql
+		02_TP_creacionStoredProcedures_UpdateDelete.sql = 02_TP_creacionStoredProcedures_UpdateDelete.sql
+		03_TP_importacionCSV_JSON.sql = 03_TP_importacionCSV_JSON.sql
+		04_TP_LoteDePrueba.sql = 04_TP_LoteDePrueba.sql
+		05_TP_generarXML.sql = 05_TP_generarXML.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{311F9374-5588-464F-9B23-2B0ED8841098}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA985CE4-EA46-42A6-8F8B-FDAAC15EC114}
+	EndGlobalSection
+EndGlobal

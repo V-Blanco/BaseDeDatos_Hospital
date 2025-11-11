@@ -1,0 +1,67 @@
+﻿<Turnos>
+  <Turno Apellido="Alvarado Bueno" Nombre="Ana Belén " DNI="25111009" NombreMedico=" Lina" ApellidoMedico="Dra. CAPURRO" Matricula="119926" Fecha="2021-08-24" Hora="14:15:00" Especialidad="HEPATOLOGÍA" />
+  <Turno Apellido="Sandoval Robles" Nombre="Áurea " DNI="25111012" NombreMedico=" Alicia" ApellidoMedico="Dra. BIGNOTTI" Matricula="119902" Fecha="2022-09-17" Hora="09:15:00" Especialidad="NEUROLOGIA" />
+  <Turno Apellido="Lluch Gutiérrez" Nombre="José Antonio " DNI="25111038" NombreMedico=" Laura" ApellidoMedico="Dra. BRESCACIN" Matricula="119904" Fecha="2023-01-29" Hora="13:45:00" Especialidad="TRAUMATOLOGIA" />
+  <Turno Apellido="Escrivá Cervera" Nombre="Ricarda " DNI="25111043" NombreMedico=" Miguel" ApellidoMedico="Dr. CALABRESE" Matricula="119957" Fecha="2022-09-03" Hora="14:15:00" Especialidad="OBSTETRICIA" />
+  <Turno Apellido="del Martí" Nombre="Olivia " DNI="25111066" NombreMedico=" Luis" ApellidoMedico="Dr. CAMERA" Matricula="119905" Fecha="2024-04-21" Hora="12:30:00" Especialidad="NUTRICION" />
+  <Turno Apellido="González Robles" Nombre="Gabriela " DNI="25111070" NombreMedico=" Claudia" ApellidoMedico="Dra. DREYER" Matricula="119910" Fecha="2020-09-01" Hora="10:00:00" Especialidad="CLINICA MEDICA" />
+  <Turno Apellido="Trillo Rozas" Nombre="Isa " DNI="25111072" NombreMedico=" Vilda" ApellidoMedico="Dra. DISCACIATI" Matricula="119909" Fecha="2023-01-11" Hora="09:15:00" Especialidad="DERMATOLOGIA" />
+  <Turno Apellido="Vigil Gil" Nombre="Eustaquio " DNI="25111105" NombreMedico=" Giani" ApellidoMedico="Dr. CORRADO" Matricula="119921" Fecha="2023-02-15" Hora="08:30:00" Especialidad="HEPATOLOGÍA" />
+  <Turno Apellido="Vigil Gil" Nombre="Eustaquio " DNI="25111105" NombreMedico=" María " ApellidoMedico="Dra. GALICH" Matricula="119928" Fecha="2021-08-19" Hora="16:15:00" Especialidad="TRAUMATOLOGIA" />
+  <Turno Apellido="Blázquez Castells" Nombre="Ariel Alejo " DNI="25111124" NombreMedico=" Luis" ApellidoMedico="Dr. CAMERA" Matricula="119905" Fecha="2021-01-08" Hora="16:30:00" Especialidad="OBSTETRICIA" />
+  <Turno Apellido="Dominguez Mayol" Nombre="Óscar " DNI="25111127" NombreMedico=" Luis" ApellidoMedico="Dr. APONTE TINAO" Matricula="119958" Fecha="2020-03-29" Hora="16:00:00" Especialidad="MEDICINA FAMILIAR" />
+  <Turno Apellido="Dominguez Mayol" Nombre="Óscar " DNI="25111127" NombreMedico=" Felisa" ApellidoMedico="Dra. SHOKIDA" Matricula="119956" Fecha="2023-09-11" Hora="13:15:00" Especialidad="NUTRICION" />
+  <Turno Apellido="Múgica Gomez" Nombre="Felisa " DNI="26222019" NombreMedico=" Jorge A." ApellidoMedico="Dr. FARIAS" Matricula="119914" Fecha="2022-02-21" Hora="11:00:00" Especialidad="CLINICA MEDICA" />
+  <Turno Apellido="Pinilla Bustamante" Nombre="Rosendo " DNI="26222022" NombreMedico=" Giani" ApellidoMedico="Dr. CORRADO" Matricula="119921" Fecha="2023-07-30" Hora="10:30:00" Especialidad="KINESIOLOGIA" />
+  <Turno Apellido="Feliu" Nombre="Duilio Lucas " DNI="26222023" NombreMedico=" Arturo" ApellidoMedico="Dr. CAGIDE" Matricula="119920" Fecha="2021-05-02" Hora="13:00:00" Especialidad="FONOAUDIOLOGIA" />
+  <Turno Apellido="del Nieto" Nombre="Hernando " DNI="26222048" NombreMedico=" Héctor" ApellidoMedico="Dr. PICCIONI" Matricula="119933" Fecha="2020-03-29" Hora="11:45:00" Especialidad="OBSTETRICIA" />
+  <Turno Apellido="Castellanos Bauzà" Nombre="Ariel " DNI="26222052" NombreMedico=" Mirian " ApellidoMedico="Lic. BANDERA" Matricula="119941" Fecha="2020-03-17" Hora="15:45:00" Especialidad="ENDOCRINLOGIA" />
+  <Turno Apellido="del Azorin" Nombre="Ruben " DNI="26222054" NombreMedico=" Pablo" ApellidoMedico="Dr. BONGIORNO" Matricula="119903" Fecha="2020-07-21" Hora="17:30:00" Especialidad="GINECOLOGIA" />
+  <Turno Apellido="del Sanjuan" Nombre="Lupita " DNI="26222079" NombreMedico=" Alberto" ApellidoMedico="Dr. LAVIERI" Matricula="119923" Fecha="2023-07-25" Hora="14:30:00" Especialidad="NUTRICION" />
+  <Turno Apellido="Clemente" Nombre="Adoración Jurado " DNI="26222084" NombreMedico=" Eduardo" ApellidoMedico="Dr. DOCTOROVICH" Matricula="119943" Fecha="2022-10-30" Hora="17:00:00" Especialidad="CARDIOLOGIA" />
+  <Turno Apellido="de Figueroa" Nombre="Sandalio " DNI="26222137" NombreMedico=" Alicia" ApellidoMedico="Dra. BIGNOTTI" Matricula="119902" Fecha="2020-05-16" Hora="10:30:00" Especialidad="OBSTETRICIA" />
+  <Turno Apellido="de Figueroa" Nombre="Sandalio " DNI="26222137" NombreMedico=" Marcelo" ApellidoMedico="Dr. RUGIERO" Matricula="119945" Fecha="2023-09-27" Hora="08:00:00" Especialidad="TRAUMATOLOGIA" />
+  <Turno Apellido="Ropero Macias" Nombre="Otilia " DNI="26222149" NombreMedico=" Guillermo" ApellidoMedico="Dr. DE ELIZALDE" Matricula="119922" Fecha="2020-05-08" Hora="08:30:00" Especialidad="FONOAUDIOLOGIA" />
+  <Turno Apellido="Nuñez" Nombre="Isabela Solé " DNI="28321034" NombreMedico=" Eduardo" ApellidoMedico="Dr. DOCTOROVICH" Matricula="119943" Fecha="2022-09-29" Hora="11:30:00" Especialidad="DERMATOLOGIA" />
+  <Turno Apellido="Higueras Ribes" Nombre="Adriana " DNI="28321047" NombreMedico=" Marcelo" ApellidoMedico="Kgo. FIUME" Matricula="119942" Fecha="2023-09-19" Hora="09:30:00" Especialidad="KINESIOLOGIA" />
+  <Turno Apellido="Burgos" Nombre="Loreto " DNI="28321050" NombreMedico=" Alicia" ApellidoMedico="Dra. DORIN" Matricula="119947" Fecha="2020-12-21" Hora="08:30:00" Especialidad="OBSTETRICIA" />
+  <Turno Apellido="Vega Girona" Nombre="Manu " DNI="28321052" NombreMedico=" Aldo " ApellidoMedico="Dr. SCHIUMA" Matricula="119925" Fecha="2021-03-14" Hora="15:15:00" Especialidad="KINESIOLOGIA" />
+  <Turno Apellido="Cabanillas" Nombre="Victoriano Tapia" DNI="29145337" NombreMedico=" María del Carmen" ApellidoMedico="Lic. PONCE DE LEON" Matricula="119930" Fecha="2024-05-25" Hora="10:45:00" Especialidad="NUTRICION" />
+  <Turno Apellido="Rosales Calvo" Nombre="Sol " DNI="29145382" NombreMedico=" Giani" ApellidoMedico="Dr. CORRADO" Matricula="119921" Fecha="2023-11-17" Hora="10:00:00" Especialidad="NUTRICION" />
+  <Turno Apellido="Lobato Mena" Nombre="Melania " DNI="29145405" NombreMedico=" Jorge" ApellidoMedico="Dr. NORSCINI" Matricula="119944" Fecha="2020-12-14" Hora="16:00:00" Especialidad="CARDIOLOGIA" />
+  <Turno Apellido="Ávila Pintor" Nombre="Calixto " DNI="29145410" NombreMedico=" Jorge" ApellidoMedico="Dr. PREMOLI" Matricula="119954" Fecha="2023-12-23" Hora="08:30:00" Especialidad="TRAUMATOLOGIA" />
+  <Turno Apellido="Cuadrado Gual" Nombre="Luis Miguel " DNI="29145439" NombreMedico=" Gabriela" ApellidoMedico="Dra. PICOTTI" Matricula="119953" Fecha="2021-04-20" Hora="17:15:00" Especialidad="OFTALMOLOGIA" />
+  <Turno Apellido="Gutierrez Caparrós" Nombre="Jorge " DNI="30148009" NombreMedico=" Paula" ApellidoMedico="Dra. CARRETE" Matricula="119907" Fecha="2021-11-27" Hora="16:00:00" Especialidad="TRAUMATOLOGIA" />
+  <Turno Apellido="de Chita Fábregas Toro" Nombre="Clotil" DNI="30148021" NombreMedico=" Marcelo" ApellidoMedico="Kgo. FIUME" Matricula="119942" Fecha="2021-10-07" Hora="15:15:00" Especialidad="OBSTETRICIA" />
+  <Turno Apellido="de Chita Fábregas Toro" Nombre="Clotil" DNI="30148021" NombreMedico=" Gabriela" ApellidoMedico="Dra. PICOTTI" Matricula="119953" Fecha="2020-08-08" Hora="13:00:00" Especialidad="GASTROENTEROLOGIA" />
+  <Turno Apellido="Yuste Falcón" Nombre="Rosario " DNI="30148023" NombreMedico=" Mirian " ApellidoMedico="Lic. BANDERA" Matricula="119941" Fecha="2022-06-26" Hora="17:30:00" Especialidad="NUTRICION" />
+  <Turno Apellido="Moya Fabregat" Nombre="Blanca " DNI="30148089" NombreMedico=" Eduardo" ApellidoMedico="Dr. DOCTOROVICH" Matricula="119943" Fecha="2023-12-13" Hora="15:30:00" Especialidad="GASTROENTEROLOGIA" />
+  <Turno Apellido="Verdejo Mayoral" Nombre="Paca " DNI="30148113" NombreMedico=" Luis" ApellidoMedico="Dr. MUSCOLO" Matricula="119960" Fecha="2021-08-09" Hora="14:45:00" Especialidad="UROLOGIA" />
+  <Turno Apellido="Alvarado Rocamora" Nombre="Alejandra " DNI="30148121" NombreMedico=" Esteban" ApellidoMedico="Dr. DE LA TORRE" Matricula="119906" Fecha="2021-12-27" Hora="13:30:00" Especialidad="NEUROLOGIA" />
+  <Turno Apellido="Rosell Ferrándiz" Nombre="América " DNI="30148126" NombreMedico=" Daniela" ApellidoMedico="Dra. EPSTEIN" Matricula="119912" Fecha="2023-07-04" Hora="15:15:00" Especialidad="CLINICA MEDICA" />
+  <Turno Apellido="Quero Alcántara" Nombre="Blanca " DNI="30148127" NombreMedico=" María " ApellidoMedico="Dra. GALICH" Matricula="119928" Fecha="2021-01-31" Hora="16:30:00" Especialidad="CARDIOLOGIA" />
+  <Turno Apellido="Guardia" Nombre="Roldán " DNI="30148129" NombreMedico=" Pedro" ApellidoMedico="Dr. BRANDI" Matricula="119949" Fecha="2023-10-28" Hora="11:15:00" Especialidad="CLINICA MEDICA" />
+  <Turno Apellido="de Mascaró" Nombre="Óscar " DNI="30148146" NombreMedico=" Héctor" ApellidoMedico="Dr. PICCIONI" Matricula="119933" Fecha="2021-06-08" Hora="09:30:00" Especialidad="NEUROLOGIA" />
+  <Turno Apellido="Macias Vall" Nombre="Felicidad " DNI="30148149" NombreMedico=" Marcelo" ApellidoMedico="Kgo. FIUME" Matricula="119942" Fecha="2023-05-05" Hora="12:30:00" Especialidad="OFTALMOLOGIA" />
+  <Turno Apellido="Salgado" Nombre="Rita Asensio " DNI="30148158" NombreMedico=" Arturo" ApellidoMedico="Dr. CAGIDE" Matricula="119920" Fecha="2022-07-30" Hora="11:45:00" Especialidad="OFTALMOLOGIA" />
+  <Turno Apellido="Amat" Nombre="Lucho Andreu " DNI="30148164" NombreMedico=" José Mario" ApellidoMedico="Dr. MAGNI AREGAL" Matricula="119939" Fecha="2020-03-03" Hora="17:15:00" Especialidad="GASTROENTEROLOGIA" />
+  <Turno Apellido="Bejarano Gimenez" Nombre="Ariel " DNI="30148181" NombreMedico=" Valeria" ApellidoMedico="Dra. FINKIELSZTEIN" Matricula="119915" Fecha="2023-07-23" Hora="15:30:00" Especialidad="OFTALMOLOGIA" />
+  <Turno Apellido="Gomis" Nombre="Adalberto " DNI="30148183" NombreMedico=" Carlos" ApellidoMedico="Dr. SOIFER" Matricula="119934" Fecha="2021-12-30" Hora="17:15:00" Especialidad="TRAUMATOLOGIA" />
+  <Turno Apellido="Crespo Gallego" Nombre="Erasmo " DNI="31014752" NombreMedico=" Alfredo " ApellidoMedico="Dr. GAETE" Matricula="119917" Fecha="2023-06-17" Hora="15:45:00" Especialidad="NEUROLOGIA" />
+  <Turno Apellido="Almansa" Nombre="Valeria " DNI="31014783" NombreMedico=" Juan" ApellidoMedico="Dr. DE PAULA" Matricula="119932" Fecha="2021-01-08" Hora="10:00:00" Especialidad="OFTALMOLOGIA" />
+  <Turno Apellido="Almansa" Nombre="Valeria " DNI="31014783" NombreMedico=" Luis" ApellidoMedico="Dr. MUSCOLO" Matricula="119960" Fecha="2021-05-02" Hora="11:30:00" Especialidad="FONOAUDIOLOGIA" />
+  <Turno Apellido="Escalona" Nombre="Leocadio " DNI="31014793" NombreMedico=" Rodolfo" ApellidoMedico="Dr. MILICICH" Matricula="119924" Fecha="2021-10-12" Hora="12:45:00" Especialidad="OBSTETRICIA" />
+  <Turno Apellido="Montenegro Garcés" Nombre="Jacinta " DNI="31014801" NombreMedico=" Eduardo H." ApellidoMedico="Dr. DURANTE" Matricula="119911" Fecha="2021-06-18" Hora="11:45:00" Especialidad="FONOAUDIOLOGIA" />
+  <Turno Apellido="Montenegro Garcés" Nombre="Jacinta " DNI="31014801" NombreMedico=" Jorge" ApellidoMedico="Dr. PREMOLI" Matricula="119954" Fecha="2020-08-22" Hora="16:45:00" Especialidad="GASTROENTEROLOGIA" />
+  <Turno Apellido="Calleja" Nombre="Vicente " DNI="31014850" NombreMedico=" Patricia" ApellidoMedico="Dra. FAINSTEIN DAY" Matricula="119927" Fecha="2023-01-08" Hora="11:45:00" Especialidad="KINESIOLOGIA" />
+  <Turno Apellido="del Seco" Nombre="Adalberto " DNI="32741972" NombreMedico=" Juan Carlos" ApellidoMedico="Dr. TEJERIZO" Matricula="119962" Fecha="2024-05-28" Hora="09:15:00" Especialidad="OFTALMOLOGIA" />
+  <Turno Apellido="Batalla Valls" Nombre="Alba " DNI="32741980" NombreMedico=" Ernesto" ApellidoMedico="Dr. TORASSA" Matricula="119951" Fecha="2023-03-19" Hora="13:30:00" Especialidad="HEPATOLOGÍA" />
+  <Turno Apellido="de Bernal" Nombre="Felicidad " DNI="32742027" NombreMedico=" Miguel" ApellidoMedico="Dr. AYERZA" Matricula="119959" Fecha="2020-02-27" Hora="09:00:00" Especialidad="OFTALMOLOGIA" />
+  <Turno Apellido="Guzman" Nombre="Áurea " DNI="32742037" NombreMedico=" Lina" ApellidoMedico="Dra. CAPURRO" Matricula="119926" Fecha="2020-12-08" Hora="11:30:00" Especialidad="FONOAUDIOLOGIA" />
+  <Turno Apellido="Apolinar Salas Alemán" Nombre="Cecilio " DNI="32742050" NombreMedico=" Guillermina" ApellidoMedico="LARRAIGNET" Matricula="119931" Fecha="2022-07-20" Hora="16:00:00" Especialidad="ENDOCRINLOGIA" />
+  <Turno Apellido="Herrero" Nombre="Eligio " DNI="32742053" NombreMedico=" Alicia" ApellidoMedico="Dra. DORIN" Matricula="119947" Fecha="2021-03-01" Hora="17:00:00" Especialidad="CARDIOLOGIA" />
+  <Turno Apellido="Alvarado Pombo" Nombre="Jose Francisco " DNI="32742071" NombreMedico=" Luis" ApellidoMedico="Dr. CAMERA" Matricula="119905" Fecha="2023-01-05" Hora="16:15:00" Especialidad="OFTALMOLOGIA" />
+  <Turno Apellido="Alvarado Pombo" Nombre="Jose Francisco " DNI="32742071" NombreMedico=" Claudia" ApellidoMedico="Dra. ALONSO" Matricula="119901" Fecha="2023-01-02" Hora="13:15:00" Especialidad="OBSTETRICIA" />
+  <Turno Apellido="Mármol" Nombre="Maristela " DNI="32742080" NombreMedico=" Luis" ApellidoMedico="Dr. APONTE TINAO" Matricula="119958" Fecha="2023-09-08" Hora="13:15:00" Especialidad="NEUROLOGIA" />
+  <Turno Apellido="Blázquez Cerro" Nombre="Ruth " DNI="32742085" NombreMedico=" María del Carmen" ApellidoMedico="Lic. PONCE DE LEON" Matricula="119930" Fecha="2020-04-23" Hora="08:45:00" Especialidad="UROLOGIA" />
+</Turnos>
